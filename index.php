@@ -1,0 +1,9 @@
+<?php
+include('admin/includes/config/DAL.php');
+include('frontend/includes/header.php');
+include("frontend/includes/carousel.php");
+include("frontend/includes/categories.php");
+include("frontend/includes/popular.php");
+include("frontend/includes/about.php");
+include("frontend/includes/contact.php");
+include('frontend/includes/footer.php');

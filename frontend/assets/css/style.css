@@ -1,0 +1,21 @@
+span.underline{
+    position: absolute; 
+    bottom: -12px;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    background-color:#0d6efd!important;
+}
+.popular-img{
+    img{
+        max-width: 100%;
+    }
+}
+@media (max-width: 1000px) {
+    .mini-navbar{
+        display: none;
+    }
+}
+main{
+    min-height: 350px !important;
+}
